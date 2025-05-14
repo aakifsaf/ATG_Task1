@@ -1,0 +1,4 @@
+Django==5.0
+Pillow==10.1.0  # For handling profile pictures
+django-crispy-forms==2.1  # For better form styling
+crispy-bootstrap5==2023.10
